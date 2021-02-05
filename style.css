@@ -5,7 +5,7 @@ body {
 form {
     width: 320px;
     padding: 60px 25px 80px;
-    margin: 50px auto;
+    margin: 15% auto;
     background: #e2c043;
     display: flex;
     flex-direction: column;
